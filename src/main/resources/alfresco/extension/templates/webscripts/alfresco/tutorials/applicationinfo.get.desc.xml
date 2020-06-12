@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>Retreive application information</shortname>
+    <description>Get details about the app</description>
+    <url>/app/{companyname}/info</url>
+    <authentication>none</authentication>
+    <format default="json"></format>
+</webscript>
